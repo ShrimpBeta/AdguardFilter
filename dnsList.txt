@@ -1,6 +1,8 @@
 [Adblock Plus 2.0; AdGuard]
 ! Title: AdguardFilter DNS
 ! HomePage: https://github.com/Shrimp-Xu/AdguardFilter
+! Version: 1
 
 # QQ Browser free novel ads
 ||kde.qq.com^
+
