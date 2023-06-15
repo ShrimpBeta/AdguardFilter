@@ -3,6 +3,20 @@
 ! HomePage: https://github.com/Shrimp-Xu/AdguardFilter
 ! Version: 1
 
-# QQ Browser free novel ads
+# QQ浏览器
+# 小说广告
 ||kde.qq.com^
 
+# 微信
+# 公众号文章广告
+||wxsnsdythumb.wxs.qq.com^
+||wxsnsdy.wxs.qq.com^
+# 评论区会无法加载
+||mp.weixin.qq.com^
+
+# 雷电模拟器
+# 开屏广告
+||ldapi.ldmnq.com^
+
+# 联想模拟器
+||microvirt.com^
