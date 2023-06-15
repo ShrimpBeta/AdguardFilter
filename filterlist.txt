@@ -1,0 +1,5 @@
+[Adblock Plus 2.0; AdGuard]
+! Title: AdguardFilter Filter
+! HomePage: https://github.com/Shrimp-Xu/AdguardFilter
+! Version: 1
+
