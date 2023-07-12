@@ -1,5 +1,6 @@
 # AdguardFilter
 
-Some adguard filtering rules
-
-**Most of them are for Mobile Apps**.
+> **Note**
+> 主要是一些个人生活中碰到的订阅规则无法解决掉的广告的问题。
+>
+> **以移动应用广告为主**
