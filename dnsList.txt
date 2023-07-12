@@ -11,8 +11,8 @@
 # 公众号文章广告
 ||wxsnsdythumb.wxs.qq.com^
 ||wxsnsdy.wxs.qq.com^
-# 评论区会无法加载
-||mp.weixin.qq.com^
+# 禁止微信自带的DNS生效
+||dns.weixin.qq.com.cn^
 
 # 雷电模拟器
 # 开屏广告
