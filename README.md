@@ -9,9 +9,9 @@
 
 |文件名|功能|
 |-|-|
-|dnsList.txt|基于DNS的广告过滤器|
-|filterList.txt|基于过滤规则的过滤器|
-|dnsSpecial.txt|受 `/etc/hosts/` 去广告语法启发，使用dsn过滤实现安卓非root模式下无法编辑host的问题，实现域名解析指定|
+|dnsList.txt|基于DNS的广告过滤器，个人使用中为去除的广告|
+|filterList.txt|基于过滤规则的过滤器，个人使用中为去除的广告|
+|dnsSpecial.txt|受 `/etc/hosts/` 去广告语法启发，使用dsn过滤实现<br>安卓非root模式下无法编辑host的问题，实现域名<br>解析指定|
 
 ## Adguard规则介绍
 
