@@ -1,7 +1,7 @@
 [Adblock Plus 2.0; AdGuard]
 ! Title: Adguard DNS Switch
 ! HomePage: https://github.com/Shrimp-Xu/AdguardFilter
-! Version: 1
+! Version: 2
 ! 借助Adguard支持host拦截的写法，实现安卓非Root模式下更改host的效果
 ! 用于解决DNS污染以及DNS无法解析至特定IP
 
