@@ -8,6 +8,3 @@
 # 谷歌翻译
 108.177.97.100 translate.googleapis.com
 108.177.97.100 translate.google.com
-
-# Github
-[2606:50c0:8002::154] raw.githubusercontent.com
