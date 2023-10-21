@@ -3,6 +3,12 @@
 ! HomePage: https://github.com/Shrimp-Xu/AdguardFilter
 ! Version: 2
 
+# 腾讯广告联盟
+||*.pull.yximgs.com^
+
+# 快手广告联盟
+||*.pull.etoote.com^
+
 # QQ浏览器
 # 小说广告
 ||kde.qq.com^
