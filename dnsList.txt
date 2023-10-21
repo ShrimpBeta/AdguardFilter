@@ -1,7 +1,7 @@
 [Adblock Plus 2.0; AdGuard]
 ! Title: AdguardFilter DNS
 ! HomePage: https://github.com/Shrimp-Xu/AdguardFilter
-! Version: 2
+! Version: 3
 
 # 腾讯广告联盟
 ||*.pull.yximgs.com^
