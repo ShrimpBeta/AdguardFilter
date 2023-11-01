@@ -4,10 +4,16 @@
 ! Version: 3
 
 # 腾讯广告联盟
-||*.pull.yximgs.com^
+||*pull.yximgs.com^
 
 # 快手广告联盟
-||*.pull.etoote.com^
+||*pull.etoote.com^
+# 快手dns，可能是广告备用DNS
+||httpdns.kwd.inkuai.com^
+
+# 新浪广告
+||api.ivideo.sina.com.cn^
+||f.video.weibocdn.com^
 
 # QQ浏览器
 # 小说广告
@@ -26,3 +32,8 @@
 
 # 联想模拟器
 ||microvirt.com^
+
+# 华为广告
+||*.dbankcdn.com^
+||*.dbankcloud.com^
+||*.dbankcloud.cn^
