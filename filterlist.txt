@@ -1,6 +1,6 @@
 [Adblock Plus 2.0; AdGuard]
 ! Title: AdguardFilter Filter
-! HomePage: https://github.com/Shrimp-Xu/AdguardFilter
+! HomePage: https://github.com/ShrimpBeta/AdguardFilter
 ! Version: 2
 
 ! 微信公众号右侧广告 
