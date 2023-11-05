@@ -1,5 +1,13 @@
 [Adblock Plus 2.0; AdGuard]
 ! Title: AdguardFilter Filter
 ! HomePage: https://github.com/Shrimp-Xu/AdguardFilter
-! Version: 1
+! Version: 2
 
+! 微信公众号右侧广告 
+weixin.qq.com##div[class^="ad_ori"] 
+! 微信公众号历史文章底部广告 
+mp.weixin.qq.com###js_bottom_ad_area 
+! 微信开屏广告 
+mp.weixin.qq.com##div[id^="ad_div_"] 
+! 微信视频广告 
+mp.weixin.qq.com##div[class^="video_ad_mask"]
