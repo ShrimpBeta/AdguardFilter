@@ -13,7 +13,6 @@
 
 # 新浪广告
 ||api.ivideo.sina.com.cn^
-||f.video.weibocdn.com^
 
 # QQ浏览器
 # 小说广告
