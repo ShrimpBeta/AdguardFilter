@@ -1,7 +1,7 @@
 [Adblock Plus 2.0; AdGuard]
 ! Title: Adguard DNS Switch
 ! HomePage: https://github.com/ShrimpBeta/AdguardFilter
-! Version: 3
+! Version: 4
 ! 借助Adguard支持host拦截的写法，实现安卓非Root模式下更改host的效果
 ! 用于解决DNS污染以及DNS无法解析至特定IP
 
@@ -9,3 +9,6 @@
 108.177.97.100 translate.googleapis.com
 108.177.97.100 translate-pa.googleapis.com
 108.177.97.100 translate.google.com
+
+# JetBrains插件市场加速
+13.225.103.91   plugins.jetbrains.com                         
