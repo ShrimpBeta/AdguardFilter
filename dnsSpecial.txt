@@ -9,6 +9,8 @@
 108.177.97.100 translate.googleapis.com
 108.177.97.100 translate-pa.googleapis.com
 108.177.97.100 translate.google.com
+# 谷歌键盘emoji联想
+108.177.97.100 tenor.googleapis.com
 
 # JetBrains插件市场加速
 13.225.103.91   plugins.jetbrains.com                         
