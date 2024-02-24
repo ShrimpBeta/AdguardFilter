@@ -5,12 +5,11 @@
 ! 借助Adguard支持host拦截的写法，实现安卓非Root模式下更改host的效果
 ! 用于解决DNS污染以及DNS无法解析至特定IP
 
-# 谷歌api
-# 108.177.97.100 googleapis.com
 # 谷歌翻译
 # 108.177.97.100 translate.googleapis.com
 # 108.177.97.100 translate-pa.googleapis.com
 # 108.177.97.100 translate.google.com                     
 
-||googleapis.com^$dnsrewrite=NOERROR;A;108.177.97.100
+||translate.googleapis.com^$dnsrewrite=NOERROR;A;108.177.97.100
+||translate-pa.googleapis.com^$dnsrewrite=NOERROR;A;108.177.97.100
 ||translate.google.com^$dnsrewrite=NOERROR;A;108.177.97.100
