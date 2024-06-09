@@ -35,5 +35,6 @@
 # 联想模拟器
 ||microvirt.com^
 
-# 华为广告
+# 第三方广告
+||bcevod.com^
 
