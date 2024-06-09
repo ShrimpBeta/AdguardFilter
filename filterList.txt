@@ -2,8 +2,16 @@
 ! Title: AdguardFilter Filter
 ! HomePage: https://github.com/ShrimpBeta/AdguardFilter
 ! Expires: 7 days
-! Version: 3
+! Version: 4
 ! Description: Adguard Filter
+
+# 去除内置DNS
+# 快手DNS
+||httpdns.kwd.inkuai.com^
+# 禁止微信DNS
+||dns.weixin.qq.com.cn^
+# 百度DNS
+||httpdns.baidu.com^
 
 # 京东广告
 ||janapi.jd.com^

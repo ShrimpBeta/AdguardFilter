@@ -5,13 +5,19 @@
 ! Version: 6
 ! Description: Adguard DNS过滤规则
 
+# 去除内置DNS
+# 快手DNS
+||httpdns.kwd.inkuai.com^
+# 禁止微信DNS
+||dns.weixin.qq.com.cn^
+# 百度DNS
+||httpdns.baidu.com^
+
 # 腾讯广告联盟
 ||*pull.yximgs.com^
 
 # 快手广告联盟
 ||*pull.etoote.com^
-# 快手dns，可能是广告备用DNS
-||httpdns.kwd.inkuai.com^
 
 # 新浪广告
 ||api.ivideo.sina.com.cn^
@@ -27,8 +33,6 @@
 # 公众号文章广告
 ||wxsnsdythumb.wxs.qq.com^
 ||wxsnsdy.wxs.qq.com^
-# 禁止微信自带的DNS生效
-||dns.weixin.qq.com.cn^
 
 # 雷电模拟器
 # 开屏广告
