@@ -1,7 +1,9 @@
 [Adblock Plus 2.0; AdGuard]
 ! Title: AdguardFilter DNS
 ! HomePage: https://github.com/ShrimpBeta/AdguardFilter
+! Expires: 7 days
 ! Version: 6
+! Description: Adguard DNS过滤规则
 
 # 腾讯广告联盟
 ||*pull.yximgs.com^

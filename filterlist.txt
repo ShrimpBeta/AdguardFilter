@@ -1,7 +1,9 @@
 [Adblock Plus 2.0; AdGuard]
 ! Title: AdguardFilter Filter
 ! HomePage: https://github.com/ShrimpBeta/AdguardFilter
+! Expires: 7 days
 ! Version: 3
+! Description: Adguard Filter
 
 # 京东广告
 ||janapi.jd.com^
