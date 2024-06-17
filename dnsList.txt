@@ -44,3 +44,29 @@
 # 第三方广告，来自百度贴吧
 ||bcevod.com^
 
+# bilibili PCDN
+||*-pcdn-*.biliapi.net^
+||stun*.chat.bilibili.com^
+
+# 腾讯 PCDN
+||stun.qqlive.qq.com^
+||musicstun.p2p.qq.com^
+||p2p.qq.com^
+||*.p2ptun.qq.com^
+||p2pupdate.gamedl.qq.com^
+||p2pupgrade.gamedl.qq.com^
+
+# 斗鱼 PCDN
+||p2plog.douyucdn.cn^
+||p2perrorlog.douyucdn.cn^
+||p2pchunk.douyucdn.cn^
+||p2pchunk-table.douyucdn.cn^
+||p2pchunk-ws.douyucdn.cn^
+||p2pchunk-*.douyucdn.cn^
+||stun*.douyucdn.cn^
+||bjfesdk.douyucdn.cn^
+||dotcounter.douyucdn.cn^
+||sdkapi.douyucdn.cn^
+||p2pable-*.douyucdn.cn^
+||dyp2p-*.douyucdn2.cn^
+/trk-([0-9\-]+)\.douyucdn\.cn/
