@@ -8,9 +8,9 @@
 ! 用于解决DNS污染以及DNS无法解析至特定IP
 
 ! 谷歌翻译
-216.239.32.40 translate.googleapis.com
-216.239.32.40 translate-pa.googleapis.com
-216.239.32.40 translate.google.com                     
+108.177.104.199 translate.googleapis.com
+108.177.104.199 translate-pa.googleapis.com
+108.177.104.199 translate.google.com                     
 
 ! adguard 下载加速
 ! 104.16.54.4 static.adtidy.org 
