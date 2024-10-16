@@ -12,6 +12,7 @@
 ||dns.weixin.qq.com.cn^
 # 百度DNS
 ||httpdns.baidu.com^
+||httpsdns.baidu.com^
 
 # 腾讯广告联盟
 ||*pull.yximgs.com^
