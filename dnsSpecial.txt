@@ -3,6 +3,7 @@
 ! HomePage: https://github.com/ShrimpBeta/AdguardFilter
 ! Expires: 7 days
 ! Version: 4
+! Updated: 2024-10-21
 ! Description: Adguard DNS Switch
 ! 借助Adguard支持host拦截的写法，实现安卓非Root模式下更改host的效果
 ! 用于解决DNS污染以及DNS无法解析至特定IP

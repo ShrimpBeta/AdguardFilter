@@ -4,6 +4,7 @@
 ! Expires: 7 days
 ! Version: 7
 ! Description: Adguard DNS过滤规则
+! Updated: 2024-10-21
 
 # 去除内置DNS
 # 快手DNS
