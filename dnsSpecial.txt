@@ -9,9 +9,9 @@
 ! 用于解决DNS污染以及DNS无法解析至特定IP
 
 ! 谷歌翻译
-2404:6800:4008:c13::5a translate.googleapis.com
-2404:6800:4008:c13::5a translate-pa.googleapis.com
-2404:6800:4008:c13::5a translate.google.com                     
+47.102.115.14 translate.googleapis.com
+47.102.115.14 translate-pa.googleapis.com
+47.102.115.14 translate.google.com                     
 
 ! adguard 下载加速
 ! 104.16.54.4 static.adtidy.org 
