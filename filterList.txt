@@ -25,7 +25,8 @@
 ||downapp.baidu.com^
 
 # 字节广告
-||www.pangolin-dsp-toutiao.com^
+||pangolin-dsp-toutiao.com^
+||bytesfield.com^
 
 # bilibili PCDN
 ||*-pcdn-*.biliapi.net^
@@ -56,4 +57,3 @@
 
 # 其他
 ||todaydata.cn^
-||apps.bytesfield.com^
