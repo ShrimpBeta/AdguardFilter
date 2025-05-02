@@ -76,3 +76,6 @@
 ||p2pable-*.douyucdn.cn^
 ||dyp2p-*.douyucdn2.cn^
 /trk-([0-9\-]+)\.douyucdn\.cn/
+
+# 其他
+||todaydata.cn^
