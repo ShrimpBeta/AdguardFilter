@@ -13,6 +13,7 @@
 ||dns.weixin.qq.com.cn^
 # 百度DNS
 ||httpdns.baidu.com^
+||httpsdns.baidu.com^
 
 # 京东广告
 ||janapi.jd.com^
