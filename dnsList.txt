@@ -2,9 +2,9 @@
 ! Title: AdguardFilter DNS
 ! HomePage: https://github.com/ShrimpBeta/AdguardFilter
 ! Expires: 7 days
-! Version: 7
+! Version: 8
 ! Description: Adguard DNS过滤规则
-! Updated: 2024-10-21
+! Updated: 2025-05-02
 
 # 去除内置DNS
 # 快手DNS
@@ -46,6 +46,9 @@
 # 第三方广告，来自百度贴吧
 ||bcevod.com^
 ||downapp.baidu.com^
+
+# 字节广告
+||www.pangolin-dsp-toutiao.com^
 
 # bilibili PCDN
 ||*-pcdn-*.biliapi.net^
