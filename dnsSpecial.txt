@@ -9,6 +9,6 @@
 ! 用于解决DNS污染以及DNS无法解析至特定IP
 
 ! 谷歌翻译
-74.125.196.113 translate.googleapis.com
-74.125.196.113 translate-pa.googleapis.com
-74.125.196.113 translate.google.com
+64.233.189.191 translate.googleapis.com
+64.233.189.191 translate-pa.googleapis.com
+64.233.189.191 translate.google.com
