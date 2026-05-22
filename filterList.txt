@@ -2,9 +2,9 @@
 ! Title: AdguardFilter Filter
 ! HomePage: https://github.com/ShrimpBeta/AdguardFilter
 ! Expires: 7 days
-! Version: 8
+! Version: 9
 ! Description: Adguard Filter
-! Updated: 2025-05-02
+! Updated: 2026-05-02
 
 # 去除内置DNS
 # 快手DNS
@@ -27,6 +27,9 @@
 # 字节广告
 ||pangolin-dsp-toutiao.com^
 ||bytesfield.com^
+
+# 新版 Outlook 列表首行广告
+outlook.office.com##[data-viewport-type="element"] > div:has(:has-text(/广告/))
 
 # bilibili PCDN
 ||*-pcdn-*.biliapi.net^
