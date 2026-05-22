@@ -1,4 +1,8 @@
 {
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=11.0.0"
+  },
   "dependencies": {
     "@adguard/aglint": "^3.0.2",
     "init": "^0.1.2"
