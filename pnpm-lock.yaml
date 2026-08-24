@@ -9,16 +9,16 @@ importers:
   .:
     dependencies:
       '@adguard/aglint':
-        specifier: ^3.0.2
-        version: 3.0.2
+        specifier: ^3.0.3
+        version: 3.0.3
       init:
         specifier: ^0.1.2
         version: 0.1.2
 
 packages:
 
-  '@adguard/aglint@3.0.2':
-    resolution: {integrity: sha512-tw5J+NSPnE29Kn1G2XY5vI6j4VK9lRdixE73G8iMKFsFhqn06NhUMfinuiggjeLYkqquZqMqJBGv1aEt4danqQ==}
+  '@adguard/aglint@3.0.3':
+    resolution: {integrity: sha512-t0n8whvYbCaii+RTPfkMg6OlEg5UlTS2iMa0DR+MY+4FH2IiuIDB2GkNpTLqp5pG2hSW/XngB92Oqa5+2eeevQ==}
     engines: {node: '>=18'}
     hasBin: true
 
@@ -32,8 +32,8 @@ packages:
   '@adguard/ecss-tree@1.1.0':
     resolution: {integrity: sha512-Qs7cpUH5AexO9JAXxMPmh6CwdNEnP1qUBSpvHnGxPmHQDjBzpAn4qz8zsJILmX4Rc5Up0iqeYcYC7Pq5HBvoyQ==}
 
-  '@babel/runtime-corejs3@7.29.2':
-    resolution: {integrity: sha512-Lc94FOD5+0aXhdb0Tdg3RUtqT6yWbI/BbFWvlaSJ3gAb9Ks+99nHRDKADVqC37er4eCB0fHyWT+y+K3QOvJKbw==}
+  '@babel/runtime-corejs3@7.29.7':
+    resolution: {integrity: sha512-ppj9ouYku+RX0ljtgZd+KMO5mkM2bCqg8H2PYAFWnLsHEIKIdRojqbJ2i3eVHrisuxy7nOFCmngTDdWtUCdXUQ==}
     engines: {node: '>=6.9.0'}
 
   '@inquirer/checkbox@1.5.2':
@@ -55,8 +55,8 @@ packages:
   '@types/mute-stream@0.0.4':
     resolution: {integrity: sha512-CPM9nzrCPPJHQNA9keH9CVkVI+WR5kMa+7XEs5jcGQ0VoAGnLv242w8lIVgwAEfmE4oufJRaTc9PNLQl0ioAow==}
 
-  '@types/node@20.19.41':
-    resolution: {integrity: sha512-ECymXOukMnOoVkC2bb1Vc/w/836DXncOg5m8Xj1RH7xSHZJWNYY6Zh7EH477vcnD5egKNNfy2RpNOmuChhFPgQ==}
+  '@types/node@20.19.43':
+    resolution: {integrity: sha512-6oYBAi5ikg4Pl+kGsoYtawUMBT2zZMCvPNF7pVLnHZfd1zf38DRiWn/gT01RYCdUqkv7Fhr+C9ot4/tb+2sVvA==}
 
   '@types/wrap-ansi@3.0.0':
     resolution: {integrity: sha512-ltIpx+kM7g/MLRZfkbL7EsCEjfzCcScLpkg37eXEtx5kmrAKBkTJwd1GIAjDSL8wTpM6Hzn5YO4pSb91BEwu1g==}
@@ -111,8 +111,8 @@ packages:
     resolution: {integrity: sha512-yPVavfyCcRhmorC7rWlkHn15b4wDVgVmBA7kV4QVBsF7kv/9TKJAbAXVTxvTnwP8HHKjRCJDClKbciiYS7p0DQ==}
     engines: {node: '>=16'}
 
-  core-js-pure@3.49.0:
-    resolution: {integrity: sha512-XM4RFka59xATyJv/cS3O3Kml72hQXUeGRuuTmMYFxwzc9/7C8OYTaIR/Ji+Yt8DXzsFLNhat15cE/JP15HrCgw==}
+  core-js-pure@3.50.0:
+    resolution: {integrity: sha512-6GP3Pxz4IKyWjAfa747vIu/jilB5z29JWROLqH/b+pXVcpgh6tM06ZIBwSuglgVqzDYURhOK6oEzTrG0bCHitA==}
 
   css-tree@2.3.1:
     resolution: {integrity: sha512-6Fv1DV/TYw//QF5IzQdqsNDjx/wc8TrMBZsqjL9eW01tWb7R7k/mq+/VXfJCl7SoD5emsJop9cOByJZfs8hYIw==}
@@ -140,8 +140,8 @@ packages:
     resolution: {integrity: sha512-yaduQFRKLXYOGgEn6AZau90j3ggSOyiqXU0F9JZfeXYhNa+Jk4X+s45A2zg5jns87GAFa34BBm2kXw4XpNcbdg==}
     engines: {node: '>=8'}
 
-  fs-extra@11.3.5:
-    resolution: {integrity: sha512-eKpRKAovdpZtR1WopLHxlBWvAgPny3c4gX1G5Jhwmmw4XJj0ifSD5qB5TOo8hmA0wlRKDAOAhEE1yVPgs6Fgcg==}
+  fs-extra@11.4.0:
+    resolution: {integrity: sha512-EQsFzMUJkCKGr1ePqlYADkIUmHW1s3ZXr5Yqy6wbGrfUCphpl2maM/kyOIRA2HpP3AaFQTZXD4ldjek+nccddA==}
     engines: {node: '>=14.14'}
 
   graceful-fs@4.2.11:
@@ -183,8 +183,8 @@ packages:
     resolution: {integrity: sha512-WhB9zCku7EGTj/HQQRz5aUQEUeoQZH2bWcltRErOpymJ4boYE6wL9Tbr23krRPSZ+C5zqNSrSw+Cc7sZZ4b7vg==}
     engines: {node: '>=0.10.0'}
 
-  js-yaml@4.1.1:
-    resolution: {integrity: sha512-qQKT4zQxXl8lLwBtHMWwaTcGfFOZviOJet3Oy/xmGk2gZH677CJM9EvtfdSkgWcATZhj/55JZ0rmy3myCT5lsA==}
+  js-yaml@4.3.1:
+    resolution: {integrity: sha512-CY6crGq313MX8GkwvB7tzgp99vjQxY1++5y10/BKN/GUfHqWaOGQMNZkBvqSzsZKWk/ijwHlWzzkLulsGHhjWQ==}
     hasBin: true
 
   json5@2.2.3:
@@ -294,7 +294,7 @@ packages:
 
 snapshots:
 
-  '@adguard/aglint@3.0.2':
+  '@adguard/aglint@3.0.3':
     dependencies:
       '@adguard/agtree': 3.3.1
       '@adguard/ecss-tree': 1.1.0
@@ -305,10 +305,10 @@ snapshots:
       commander: 11.1.0
       deepmerge: 4.3.1
       fast-deep-equal: 3.1.3
-      fs-extra: 11.3.5
+      fs-extra: 11.4.0
       ignore: 5.3.2
       inflection: 2.0.1
-      js-yaml: 4.1.1
+      js-yaml: 4.3.1
       strip-ansi: 6.0.1
       superstruct: 2.0.2
       terminal-link: 2.1.1
@@ -332,9 +332,9 @@ snapshots:
     dependencies:
       css-tree: 2.3.1
 
-  '@babel/runtime-corejs3@7.29.2':
+  '@babel/runtime-corejs3@7.29.7':
     dependencies:
-      core-js-pure: 3.49.0
+      core-js-pure: 3.50.0
 
   '@inquirer/checkbox@1.5.2':
     dependencies:
@@ -348,7 +348,7 @@ snapshots:
     dependencies:
       '@inquirer/type': 1.5.5
       '@types/mute-stream': 0.0.4
-      '@types/node': 20.19.41
+      '@types/node': 20.19.43
       '@types/wrap-ansi': 3.0.0
       ansi-escapes: 4.3.2
       chalk: 4.1.2
@@ -375,9 +375,9 @@ snapshots:
 
   '@types/mute-stream@0.0.4':
     dependencies:
-      '@types/node': 20.19.41
+      '@types/node': 20.19.43
 
-  '@types/node@20.19.41':
+  '@types/node@20.19.43':
     dependencies:
       undici-types: 6.21.0
 
@@ -427,7 +427,7 @@ snapshots:
 
   commander@11.1.0: {}
 
-  core-js-pure@3.49.0: {}
+  core-js-pure@3.50.0: {}
 
   css-tree@2.3.1:
     dependencies:
@@ -448,7 +448,7 @@ snapshots:
     dependencies:
       escape-string-regexp: 1.0.5
 
-  fs-extra@11.3.5:
+  fs-extra@11.4.0:
     dependencies:
       graceful-fs: 4.2.11
       jsonfile: 6.2.1
@@ -480,7 +480,7 @@ snapshots:
 
   isobject@3.0.1: {}
 
-  js-yaml@4.1.1:
+  js-yaml@4.3.1:
     dependencies:
       argparse: 2.0.1
 
@@ -564,6 +564,6 @@ snapshots:
 
   xregexp@5.1.2:
     dependencies:
-      '@babel/runtime-corejs3': 7.29.2
+      '@babel/runtime-corejs3': 7.29.7
 
   zod@3.24.4: {}
